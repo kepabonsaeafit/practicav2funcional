@@ -20,3 +20,6 @@ Al ejecutar el programa, se realizará la carga de datos desde el archivo y se i
 
 Metodología
 Para la realización del programa, se utilizó la programación funcional y ejemplos proporcionados por el profesor del área como base. Se implementaron métodos para procesar los datos de los estudiantes y calcular información relevante, como promedios, totales y estudiantes destacados en términos de puntaje en matemáticas por carrera y en general.
+
+
+VIDEO HASKELL: https://youtu.be/nMZqRRcLSxU
